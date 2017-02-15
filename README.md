@@ -1,2 +1,2 @@
-# Practicas-ULL
-Practicas realizadas en el curso de Desarrollos y sistemas informaticos
+# Prácticas-ULL
+## Conjunto de prácticas realizadas por **JAIRO GONZÁLEZ LEMUS** en la univerdiada de la laguna. 
